@@ -1,5 +1,5 @@
 ## Olá mundo, Eu sou o Pedro Altran ! 👋
-<br><br>
+<br>
 
 - 🛠 Atualmente trabalho meio periodo (06:30 ao 12:30) como Auxiliar Operacional II na Universidade de Ribeirão Preto, UNAERP.
 - 📚 Sou graduando do curso de Engenharia de Software, com previsão para se formar em Dez/2024.
