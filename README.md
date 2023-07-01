@@ -32,7 +32,6 @@
   <img align="center" alt="Pedro-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> 
   <img align="center" alt="Pedro-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> 
   <img align="center" alt="Pedro-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg"> 
-  <img align="right" alt="Pedro-avatar" height="150" style="border-radius:50px;" src="https://live.staticflickr.com/65535/52352736993_5e6d28436e_z.jpg">
 </div>   
 
 ##
